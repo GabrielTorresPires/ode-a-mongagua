@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+
+body {
+    background-color: azure;
+
+}
+
+.links{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #DBD736;
+    background-color: #4B93BF;
+    margin: 50px 50px 50px 0px;
+    border-width: 10px;
+    border-color: #4B93BF;
+    border-style: solid;
+    box-shadow: 5px 5px 0 0 #F5F0BB;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.paragrafo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    
+}
+
+#musica {
+    font-family: 'Patrick Hand', cursive;
+
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
