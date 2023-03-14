@@ -8,6 +8,8 @@
 
 body {
     background-color: azure;
+   background-image: url(imagens/4858794.jpg);
+    
 
 }
 
@@ -19,7 +21,7 @@ body {
     border-style: solid;
     border-width: 1px;
     padding: 1px 1px 1px 1px;
-    background-color: gold;
+    background-color: #FFB200;
 
 
 }
@@ -32,8 +34,8 @@ a:link {
 h1 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: gold;
-    background-color: darkblue;
+    color: aliceblue;
+    background-color: #233E8B;
     margin: 0px 0px 0px 0px;
     padding: 50px 50px 50px 50px;
     border-width: 1px;
@@ -57,19 +59,33 @@ h2{
 h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    
 }
+
+.imagem {
+
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    color: aliceblue;
+    margin: 0px 5px 5px 5px;
+    padding: 5px 0px 0px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #1EAE98;
+    box-shadow: 0px 0px 8px 0px #233E8B;
+
+}
+
 
 #musica {
     text-align: center;
     font-family: 'Patrick Hand', cursive;
-    color: aliceblue;
-    background-color: darkseagreen;
+    color: #233E8B;
+    background-color: #A9F1DF;
     margin: 0px 0px 50px 0px;
     border-style: solid;
     border-width: 1px;
     border-radius: 50px;
-    box-shadow: 5px 5px 10px 0px #4B93BF;
+    box-shadow: 5px 5px 10px 0px #1EAE98;
 
 
 }
@@ -77,4 +93,18 @@ h3 {
 h4 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
+}
+
+.rodape{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    border-style: solid;
+    border-width: 1px;
+    border-color: bisque;
+    padding: 1px 1px 1px 1px;
+    background-color: #FFB200;
+
+
 }
