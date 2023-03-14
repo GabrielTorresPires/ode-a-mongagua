@@ -12,21 +12,37 @@ body {
 }
 
 .links{
+    text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
+    font-size: medium;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1px 1px 1px 1px;
+    background-color: gold;
 
+
+}
+
+a:link {
+    color: aliceblue;
+    
 }
 
 h1 {
+    text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: #DBD736;
-    background-color: #4B93BF;
-    margin: 50px 50px 50px 0px;
-    border-width: 10px;
+    color: gold;
+    background-color: darkblue;
+    margin: 0px 0px 0px 0px;
+    padding: 50px 50px 50px 50px;
+    border-width: 1px;
     border-color: #4B93BF;
     border-style: solid;
-    box-shadow: 5px 5px 0 0 #F5F0BB;
+
 }
+
+
 
 h2{
     font-family: 'Roboto', sans-serif;
@@ -45,7 +61,16 @@ h3 {
 }
 
 #musica {
+    text-align: center;
     font-family: 'Patrick Hand', cursive;
+    color: aliceblue;
+    background-color: darkseagreen;
+    margin: 0px 0px 50px 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px 0px #4B93BF;
+
 
 }
 
